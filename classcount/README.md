@@ -11,23 +11,16 @@ An English language teacher needs to:
 - Automate the count of remaining sessions
 - Send email with Revolut payment link when only 3 sessions remain
 
-## Solution Options
+## Solution
 
-### Option 1: Google Apps Script (Recommended - FREE)
+### Google Apps Script (FREE)
 - **Cost**: Completely free
 - **Pros**: Native Google integration, no hosting needed, easy to set up
 - **Cons**: Limited to Google ecosystem, execution time limits
 
-### Option 2: Python Script with Google APIs
-- **Cost**: Free (Google APIs are free, hosting on free tier services)
-- **Pros**: More flexible, can be extended easily
-- **Cons**: Requires hosting setup, more technical knowledge
-
 ## Setup Instructions
 
-See the respective folders for detailed setup instructions:
-- `google-apps-script/` - For Google Apps Script solution
-- `python-solution/` - For Python solution
+See the `google-apps-script/` folder for detailed setup instructions.
 
 ## Features
 
